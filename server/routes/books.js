@@ -1,3 +1,10 @@
+/*
+Name: COMP229-F2020-MidTerm-300836721
+Author: Julian Miguel Alapan
+Student#: 300836721
+WebsiteName: https://comp229-f2020-300836721.herokuapp.com/
+Description: MidTerm
+*/
 // modules required for routing
 let express = require('express');
 let router = express.Router();

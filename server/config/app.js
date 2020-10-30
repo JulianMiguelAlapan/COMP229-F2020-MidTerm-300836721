@@ -1,3 +1,10 @@
+/*
+Name: COMP229-F2020-MidTerm-300836721
+Author: Julian Miguel Alapan
+Student#: 300836721
+WebsiteName: https://comp229-f2020-300836721.herokuapp.com/
+Description: MidTerm
+*/
 // moddules for node and express
 let createError = require('http-errors');
 let express = require('express');
